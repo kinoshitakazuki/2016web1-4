@@ -1,4 +1,9 @@
-@charest""UTF-8"; 
-h1{
-    font-size:33mm;
+
+h1 span{
+    color:#d0e35b;
+}
+
+#lead{
+    border=top:#d0e35b 1px dotted;
+    text-align:center;
 }
