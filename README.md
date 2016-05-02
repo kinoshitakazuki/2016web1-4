@@ -11,5 +11,5 @@
 body{
 background-image:url(..DSCN0193.JPG);
 background-no-repeat:
-</body>
+}</body>
 </htmel>
