@@ -6,4 +6,11 @@ h1 span{
 #lead{
     border=top:#d0e35b 1px dotted;
     text-align:center;
+
+    
+}
+.greeting{
+    border-top:#d0e35b 1px dotted;
+
+    text-align:center;
 }
